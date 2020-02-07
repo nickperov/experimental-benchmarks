@@ -43,6 +43,7 @@ public class WordSplitterBenchmark {
 		WordSplitter.splitWordsForkJoin(text);
 	}
 	
+	
 	/*@Benchmark
 	public void runSplitWordsCharArrayRecursion() {
 		WordSplitter.splitWordsCharArrayRecursion(text);

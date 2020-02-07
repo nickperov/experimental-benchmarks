@@ -34,6 +34,7 @@ public class TranBulkProcExecuteBenchmark extends AbstractTranProcExecuteBenchma
 		this.multiThreadExecutor.setTransDocumentList(TestUtils.createTranDocsMT(this.transactions));
 		this.singleThreadExecutor.setTransDocumentList(TestUtils.createTranDocsST(this.transactions));
 		this.multiThreadExecutor.reInit();
+		
 	}
 
 	@Override
