@@ -1,5 +1,4 @@
-# Project Title
-Some experimental benchmark projects
+# Experimental benchmarks project
 
 ## Description
 This project serves sole purpose of education. Consist of several modules related to different areas, where each module is s JMH benchmark.   
