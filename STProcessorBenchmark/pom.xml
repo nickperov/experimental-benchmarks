@@ -17,7 +17,7 @@
   <dependencies>
     <dependency>
       <groupId>com.nickperov.labs</groupId>
-      <artifactId>STProcessor</artifactId>
+      <artifactId>st-processor</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>

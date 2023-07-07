@@ -21,7 +21,7 @@
   <dependencies>
     <dependency>
       <groupId>com.nickperov.labs</groupId>
-      <artifactId>WordSplitter</artifactId>
+      <artifactId>word-splitter</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
