@@ -19,7 +19,7 @@
     <jar.name>BenchmarkModule</jar.name>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <jmh.version>1.22</jmh.version>
-    <java.version>11</java.version>
+    <java.version>21</java.version>
   </properties>
 
 
